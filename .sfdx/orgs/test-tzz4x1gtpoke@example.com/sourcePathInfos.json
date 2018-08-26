@@ -48,9 +48,9 @@
             "sourcePath": "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1535265400043,
-            "changeTime": 1535265400043,
-            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f",
+            "modifiedTime": 1535267627107,
+            "changeTime": 1535267627107,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -281,14 +281,14 @@
     [
         "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 184,
             "modifiedTime": 1535266318918,
             "changeTime": 1535266318918,
-            "contentHash": "72a4fe6d903b2356f9962546c66c8f1989d225bb"
+            "contentHash": "72a4fe6d903b2356f9962546c66c8f1989d225bb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -517,10 +517,10 @@
         {
             "sourcePath": "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
-            "size": 341,
-            "modifiedTime": 1535205728425,
-            "changeTime": 1535205728425,
-            "contentHash": "54fba69395bda7b5f07d7683a0e698a0749fecfb",
+            "size": 540,
+            "modifiedTime": 1535267783094,
+            "changeTime": 1535267783094,
+            "contentHash": "5b3540ab5c9a1d249f3984f3d05de9edb94f7638",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -582,10 +582,10 @@
         {
             "sourcePath": "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
-            "size": 255,
-            "modifiedTime": 1535205753531,
-            "changeTime": 1535205753531,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "size": 386,
+            "modifiedTime": 1535267821567,
+            "changeTime": 1535267821567,
+            "contentHash": "4137519e0ae78c5113aad174ed88e26e70107841",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -970,14 +970,14 @@
     [
         "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
+            "state": "u",
             "sourcePath": "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
-            "size": 260,
-            "modifiedTime": 1535265475677,
-            "changeTime": 1535265475677,
-            "contentHash": "942ff45728b690d7ff605de9908ff0821a651669",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 331,
+            "modifiedTime": 1535270299954,
+            "changeTime": 1535270299954,
+            "contentHash": "9beec1ee9b220486fe3461f1591750189bfc9ba4"
         }
     ],
     [
@@ -1037,10 +1037,10 @@
         {
             "sourcePath": "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
-            "size": 379,
-            "modifiedTime": 1535265512166,
-            "changeTime": 1535265512166,
-            "contentHash": "03c2ff940a77f739be3be834b08d71acb5ef1c83",
+            "size": 809,
+            "modifiedTime": 1535267870220,
+            "changeTime": 1535267870220,
+            "contentHash": "7a3666f27818a7d3317c88586796e84fc6f56678",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1068,6 +1068,45 @@
             "changeTime": 1535265400051,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "sourcePath": "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1535267627109,
+            "changeTime": 1535267645913,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "sourcePath": "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "size": 100,
+            "modifiedTime": 1535267656428,
+            "changeTime": 1535267656428,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "sourcePath": "c:\\Dev\\Salesforce\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1535267627110,
+            "changeTime": 1535267627110,
+            "contentHash": "cec1196c308ccd6bc750071048cc217eb2543ac8",
+            "isMetadataFile": true,
             "state": "u"
         }
     ]
